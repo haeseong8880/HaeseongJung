@@ -1,7 +1,6 @@
 <h1 align='center'>My introduction 🙋🏻‍♂️</p>
 <p align='center'>
 
-<a href="[https://gifted-dragon-f28.notion.site/5fbcc043d24b40ad9d49b2c38dcd879c](https://github.com/haeseong8880)" target="_blank"><img src="https://img.shields.io/badge/GitHub-323232?style=flat-square&logo=GitHub&logoColor=white" width = 300px height = 80px/></a>
 <a href="https://gifted-dragon-f28.notion.site/5fbcc043d24b40ad9d49b2c38dcd879c" target="_blank"><img src="https://img.shields.io/badge/Notion-FF9E0F?style=flat-square&logo=Notion&logoColor=white" width = 300px height = 80px/></a>
 
 <h3 align='center'>My Skill Tech ⚙️</p>
